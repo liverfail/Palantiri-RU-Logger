@@ -1,5 +1,6 @@
 # Palantíri-RU-Logger
 Roblox recently updated logger.<br/>
+This doesn't work anymore because Roblox removed their recently uploaded api.
 
 [![Run on Repl.it](https://repl.it/badge/github/Deniied0/Palantiri-RU-Logger)](https://repl.it/github/Deniied0/Palantiri-RU-Logger)
 
